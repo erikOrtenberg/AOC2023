@@ -1,0 +1,82 @@
+cradle:
+  cabal:
+    - path: "app/Main.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day1.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day2.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day3.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day4.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day5.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day6.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day7.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day8.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day9.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day10.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day11.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day12.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day13.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day14.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day15.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day16.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day17.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day18.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day19.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day20.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day21.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day22.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day23.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day24.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/Day25.hs"
+      component: "AOC2023:exe:AOC2023"
+
+    - path: "solutions/GetInput.hs"
+      component: "AOC2023:exe:AOC2023"

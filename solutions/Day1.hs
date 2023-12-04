@@ -1,8 +1,14 @@
 module Day1 where
 
 import Data.Char
+import GetInput (getFile)
 
-day1 s = (day1p1 s, day1p2 s)
+day1 :: IO ()
+day1 = do
+    s <- getFile "day1"
+    let (p1, p2) = (day1p1 s, day1p2 s)
+    print p1
+    print p2
 
 day1p1 :: String -> Int
 day1p1 s = sum numbers
